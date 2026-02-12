@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python,c++ ,Gen AI and Agentic AI**
 
-- 👨‍💻 All of my projects are available at [https://kirtivardhansinghportfili.netlify.app/](https://kirtivardhansinghportfili.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kirtivardhansportfilio.vercel.app/]
 
 - 💬 Ask me about **Gossips**
 
