@@ -25,6 +25,11 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
+<h2 align="center">⚔️ Roronoa Zoro Mode Activated</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.gif" width="280"/>
+</p>
 ![Fintechtocat](https://octodex.github.com/images/fintechtocat.png)
 
 ## 🛠️ Tech Stack
