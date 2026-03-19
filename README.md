@@ -25,9 +25,7 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
-<p align="center">
-  <img src="https://octodex.github.com/images/fintechtocat.png" width="300"/>
-</p>
+![Fintechtocat](https://octodex.github.com/images/fintechtocat.png)
 
 ## 🛠️ Tech Stack
 
